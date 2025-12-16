@@ -11080,3 +11080,16 @@ html {
   transition: transform .5s;
   text-transform:none;
 }
+
+.publication-list li {
+    line-height: 1.6;
+}
+
+.publication-list a {
+    color: #ffd700;
+    text-decoration: none;
+}
+
+.publication-list a:hover {
+    text-decoration: underline;
+}
